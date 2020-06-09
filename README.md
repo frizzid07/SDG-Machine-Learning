@@ -8,8 +8,7 @@ Code and external resources relevant to the Machine Learning Training for SDG
     * NumPy
     * Pandas
   3. Types of Machine Learning
-    1. Supervised
-      * Linear Regression
+    * Supervised Learning- **Linear Regression**
 
 ## External Resource Links-
 
