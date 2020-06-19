@@ -13,6 +13,10 @@ Code and external resources relevant to the Machine Learning Training for SDG
 * DAY 2
   1. **Logistic Regression**
   2. **Decision Tree Classifier**
+  
+* DAY 3
+  1. **Naive Bayes Classifer**
+  2. **KMeans Clustering**
 
 ## External Resource Links-
 
